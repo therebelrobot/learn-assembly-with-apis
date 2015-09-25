@@ -1,6 +1,6 @@
 # Learn X with APIs
 
-We've all been there. You've gotten proficient in a given programming language, and you want to expand your repertoire. Or maybe you just want to learn a new framwork within that language. Either way, you've spotted a language that you'd like to work in, but if you're a project-based learner like me, finding a project that will showcase what the language/framework has to offer can be a challenge to pin down.
+We've all been there. You've gotten proficient in a given programming language, and you want to expand your repertoire. Or maybe you just want to learn a new framework within that language. Either way, you've spotted a language that you'd like to work in, but if you're a project-based learner like me, finding a project that will showcase what the language/framework has to offer can be a challenge to pin down.
 
 Enter *Learn X with APIs*. Think of it as the more advanced cousin of `printf("hello, world");`. You'll gain practical first-hand experience with your new language, and maybe even have something to show off to others when you're done.
 
