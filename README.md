@@ -32,11 +32,11 @@ As you may have guessed by the title of the repo, we're going to build an API. T
 
 ### I've made it! What now?
 
-Once you've completed the API to your satisfaction (or at least to the point of the features outlined above), open [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name and the link to your repo to the GRADUATES.md file, and pull request it back in to show off your beautiful new polyglot skills.
+Once you've completed the API to your satisfaction (or at least to the point of the features outlined above), [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name and the link to your repo to the GRADUATES.md file, and pull request it back in to show off your beautiful new polyglot skills.
 
 ## Contribution
 
-As I said above, this is far from a comprehensive or complete list. Is there a feature you think should be included on this? [Let me know!](https://github.com/therebelrobot/learn-with-apis/issues/new) 
+As I said above, this is far from a comprehensive or complete list. Is there a feature you think should be included on this? **[Let me know!](https://github.com/therebelrobot/learn-with-apis/issues/new)**
 
 ## License
 [WTFPL-2.0](https://tldrlegal.com/license/do-wtf-you-want-to-public-license-v2-(wtfpl-2.0))
