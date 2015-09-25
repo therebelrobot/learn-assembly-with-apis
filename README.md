@@ -1,5 +1,7 @@
 # Learn X with APIs
 
+[![Learn X with APIs](http://learn.r.ebel.space/[X])](https://github.com/therebelrobot/learn-x-with-apis)
+
 We've all been there. You've gotten proficient in a given programming language, and you want to expand your repertoire. Or maybe you just want to learn a new framework within that language. Either way, you've spotted a language that you'd like to work in, but if you're a project-based learner like me, finding a project that will showcase what the language/framework has to offer can be a challenge to pin down.
 
 Enter *Learn X with APIs*. Think of it as the more advanced cousin of `printf("hello, world");`. You'll gain practical first-hand experience with your new language, and maybe even have something to show off to others when you're done.
@@ -32,7 +34,13 @@ As you may have guessed by the title of the repo, we're going to build an API. T
 
 ### I've made it! What now?
 
-Once you've completed the API to your satisfaction (or at least to the point of the features outlined above), [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name and the link to your repo to the GRADUATES.md file, and pull request it back in to show off your beautiful new polyglot skills.
+Once you've completed the API to your satisfaction (or at least to the point of the features outlined above), add the *Learn with APIs* badge ([![Learn X with APIs](http://learn.r.ebel.space/[insert-language-here])](https://github.com/therebelrobot/learn-x-with-apis)) to your repo with the following code:
+
+```markdown
+[![Learn X with APIs](http://learn.r.ebel.space/[insert-language-here])](https://github.com/therebelrobot/learn-x-with-apis)
+```
+
+After that, [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name and the link to your repo to the GRADUATES.md file, and pull request it back in to show off your beautiful new polyglot skills.
 
 ## Contribution
 
