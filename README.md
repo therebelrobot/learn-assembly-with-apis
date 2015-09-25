@@ -6,11 +6,11 @@ We've all been there. You've gotten proficient in a given programming language, 
 
 Enter *Learn X with APIs*. Think of it as the more advanced cousin of `printf("hello, world");`. You'll gain practical first-hand experience with your new language, and maybe even have something to show off to others when you're done.
 
-## How to get started
+## How do I get started?
 
 Create a new repo with the name `learn-x-with-apis`, replacing `x` with your language of choice, and start coding!
 
-## Start Coding
+## Nitty Gritty Details
 
 As you may have guessed by the title of the repo, we're going to build an API. The list of features to include are listed down below. This is by no means a comprehensive or exhaustive list, but represents a good starting point with which to begin your foray into a new programming jungle.
 
