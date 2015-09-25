@@ -40,7 +40,29 @@ Once you've completed the API to your satisfaction (or at least to the point of 
 [![Learn X with APIs](http://learn.r.ebel.space/[insert--language--here])](https://github.com/therebelrobot/learn-x-with-apis)
 ```
 
-After that, [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name and the link to your repo to the GRADUATES.md file, and pull request it back in to show off your beautiful new polyglot skills.
+- Dashes `--`	→	`-` Dash
+- Underscores `__`	→	`_` Underscore 
+- `_` or Space ` `	→	` ` Space
+
+
+After that, [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name, the link to your repo, and a working link to the server (Heroku?) to this README in the `Successful APIs` section, and pull request it back in to show off your beautiful new polyglot skills.
+
+## Successful APIs
+
+### [![Learn Node.js with APIs](http://learn.r.ebel.space/node.js)](https://github.com/therebelrobot/learn-x-with-apis)
+
+| Contributor | Repo | Server |
+| ----------- | ---- | ------ |
+
+### [![Learn Go with APIs](http://learn.r.ebel.space/go)](https://github.com/therebelrobot/learn-x-with-apis)
+
+| Contributor | Repo | Server |
+| ----------- | ---- | ------ |
+
+### [![Learn Python with APIs](http://learn.r.ebel.space/python)](https://github.com/therebelrobot/learn-x-with-apis)
+
+| Contributor | Repo | Server |
+| ----------- | ---- | ------ |
 
 ## Contribution
 
