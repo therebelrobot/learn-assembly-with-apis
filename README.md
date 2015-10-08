@@ -70,3 +70,7 @@ As I said above, this is far from a comprehensive or complete list. Is there a f
 
 ## License
 [WTFPL-2.0](https://tldrlegal.com/license/do-wtf-you-want-to-public-license-v2-(wtfpl-2.0))
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/therebelrobot/learn-x-with-apis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
