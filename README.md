@@ -25,5 +25,5 @@ As you may have guessed by the title of the repo, we're going to build an API. T
 - Ask for help. StackOverflow, Google, that guy you met that one time at that conference, all can be excellent assets to accomplish your goal.
 
 ## License
-[ISC](https://tldrlegal.com/license/-isc-license)) (c) 2015 Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>
+[ISC](https://tldrlegal.com/license/-isc-license) (c) 2015 Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>
 
