@@ -1,14 +1,6 @@
-# Learn X with APIs
+# Learn Assembly with APIs
 
-[![Learn X with APIs](http://learn.r.ebel.space/[X])](https://github.com/therebelrobot/learn-x-with-apis)
-
-We've all been there. You've gotten proficient in a given programming language, and you want to expand your repertoire. Or maybe you just want to learn a new framework within that language. Either way, you've spotted a language that you'd like to work in, but if you're a project-based learner like me, finding a project that will showcase what the language/framework has to offer can be a challenge to pin down.
-
-Enter *Learn X with APIs*. Think of it as the more advanced cousin of `printf("hello, world");`. You'll gain practical first-hand experience with your new language, and maybe even have something to show off to others when you're done.
-
-## How do I get started?
-
-Create a new repo with the name `learn-x-with-apis`, replacing `x` with your language of choice, and start coding!
+[![Learn Assembly with APIs](http://learn.r.ebel.space/assembly)](https://github.com/therebelrobot/learn-x-with-apis)
 
 ## Nitty Gritty Details
 
@@ -32,45 +24,6 @@ As you may have guessed by the title of the repo, we're going to build an API. T
 - Look at other repos in this language, and see if there is a consistent style to the language. Do most devs use 2 or 4 space indentation? Tabs or spaces? You won't get everything right the first try, but it's worth taking a look at.
 - Ask for help. StackOverflow, Google, that guy you met that one time at that conference, all can be excellent assets to accomplish your goal.
 
-### I've made it! What now?
-
-Once you've completed the API to your satisfaction (or at least to the point of the features outlined above), add the *Learn with APIs* badge ([![Learn X with APIs](http://learn.r.ebel.space/[insert--language--here])](https://github.com/therebelrobot/learn-x-with-apis)) to your repo with the following code:
-
-```markdown
-[![Learn X with APIs](http://learn.r.ebel.space/[insert--language--here])](https://github.com/therebelrobot/learn-x-with-apis)
-```
-
-- Dashes `--`	→	`-` Dash
-- Underscores `__`	→	`_` Underscore 
-- `_` or Space ` `	→	` ` Space
-
-
-After that, [fork this repo](https://github.com/therebelrobot/learn-with-apis#fork-destination-box), add your name, the link to your repo, and a working link to the server (Heroku?) to this README in the `Successful APIs` section, and pull request it back in to show off your beautiful new polyglot skills.
-
-## Successful APIs
-
-### [![Learn Node.js with APIs](http://learn.r.ebel.space/node.js)](https://github.com/therebelrobot/learn-x-with-apis)
-
-| Contributor | Repo | Server |
-| ----------- | ---- | ------ |
-
-### [![Learn Go with APIs](http://learn.r.ebel.space/go)](https://github.com/therebelrobot/learn-x-with-apis)
-
-| Contributor | Repo | Server |
-| ----------- | ---- | ------ |
-
-### [![Learn Python with APIs](http://learn.r.ebel.space/python)](https://github.com/therebelrobot/learn-x-with-apis)
-
-| Contributor | Repo | Server |
-| ----------- | ---- | ------ |
-
-## Contribution
-
-As I said above, this is far from a comprehensive or complete list. Is there a feature you think should be included on this? **[Let me know!](https://github.com/therebelrobot/learn-with-apis/issues/new)**
-
 ## License
-[WTFPL-2.0](https://tldrlegal.com/license/do-wtf-you-want-to-public-license-v2-(wtfpl-2.0))
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/therebelrobot/learn-x-with-apis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[ISC](https://tldrlegal.com/license/-isc-license)) (c) 2015 Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>
 
