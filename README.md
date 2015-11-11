@@ -6,6 +6,8 @@ http://www.c-jump.com/CIS77/ASM/Assembly/lecture.html
 
 http://asm.sourceforge.net/intro/Assembly-Intro.html
 
+Building on an x86 Virtualbox machine, Ubuntu Server, 15.10
+
 ## Nitty Gritty Details
 
 As you may have guessed by the title of the repo, we're going to build an API. The list of features to include are listed down below. This is by no means a comprehensive or exhaustive list, but represents a good starting point with which to begin your foray into a new programming jungle.
